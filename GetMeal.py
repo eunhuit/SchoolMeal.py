@@ -3,7 +3,7 @@ from unittest import result
 import requests
 
 global KEY
-KEY = "e5677824515b4750ad2abbbc35c48872" # 키가 없으면 실행하지 못합니다.
+KEY = "API 키" # 키가 없으면 실행하지 못합니다.
 
 # 학교정보 불러오기
 def get_school(School_Name):
